@@ -15,9 +15,10 @@ Caso você não tenha o Python instalado ainda, é altamente recomendado que voc
 ### Começando o projeto
 Para esta tarefa, você encontrará o arquivo customer_segments.zip, que contém os arquivos necessários do projeto para download na seção Recursos. Você também pode visitar nosso [GitHub de projetos de machine learning](https://github.com/udacity/br-machine-learning) para ter acesso a todos os projetos disponíveis para este Nanodegree.
 
-Este projeto contém dois arquivos:
+Este projeto contém três arquivos:
 
-customer_segments_PT.ipynb: este é o arquivo principal em que você irá executar sua tarefa do projeto.
-customers.csv: o conjunto de dados do projeto. Você carregará esses dados no notebook.
-visuals.py: este script de Python contém funções auxiliares que criarão as visualizações necessárias.
+* customer_segments_PT.ipynb: este é o arquivo principal em que você irá executar sua tarefa do projeto.
+* customers.csv: o conjunto de dados do projeto. Você carregará esses dados no notebook.
+* visuals.py: este script de Python contém funções auxiliares que criarão as visualizações necessárias.
+</br></br>
 No Terminal ou no Command Prompt, navegue até a pasta que contém os arquivos do projeto e, então, utilize o comando jupyter notebook customer_segments.ipynb para abrir uma janela ou aba do navegador para trabalhar com seu notebook. Outra alternativa é utilizar o comando jupyter notebook ou ipython notebook e navegar até o arquivo do notebook na janela do navegador. Siga as instruções do notebook e responda a cada uma das perguntas apresentadas para concluir o projeto com sucesso. Um arquivo README também está incluído nos arquivos do projeto. Ele pode conter informações adicionais ou instruções para sua realização.
