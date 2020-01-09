@@ -22,5 +22,6 @@ Este projeto contém três arquivos:
 * customer_segments_PT.ipynb: este é o arquivo principal em que você irá executar sua tarefa do projeto.
 * customers.csv: o conjunto de dados do projeto. Você carregará esses dados no notebook.
 * visuals.py: este script de Python contém funções auxiliares que criarão as visualizações necessárias.
+
 </br></br>
 No Terminal ou no Command Prompt, navegue até a pasta que contém os arquivos do projeto e, então, utilize o comando jupyter notebook customer_segments.ipynb para abrir uma janela ou aba do navegador para trabalhar com seu notebook. Outra alternativa é utilizar o comando jupyter notebook ou ipython notebook e navegar até o arquivo do notebook na janela do navegador. Siga as instruções do notebook e responda a cada uma das perguntas apresentadas para concluir o projeto com sucesso. Um arquivo README também está incluído nos arquivos do projeto. Ele pode conter informações adicionais ou instruções para sua realização.
