@@ -9,8 +9,8 @@ Este projeto foi desenvolvido para você ter experiência prática com aprendiza
 
 ### O que você aprenderá ao concluir este projeto:
 
-Como aplicar técnicas de pré-processamento, como dimensionamento de atributos e detecção de valores aberrantes.
-Como interpretar dados que foram dimensionados, transformados ou reduzidos por meio de PCA.
-Como analisar as dimensões de PCA e construir um novo espaço de atributos.
-Como agrupar de forma ótima um conjunto de dados para encontrar padrões ocultos.
-Como avaliar informações dadas pelos dados segmentados e utilizá-los de maneira significativa.
+* Como aplicar técnicas de pré-processamento, como dimensionamento de atributos e detecção de valores aberrantes.
+* Como interpretar dados que foram dimensionados, transformados ou reduzidos por meio de PCA.
+* Como analisar as dimensões de PCA e construir um novo espaço de atributos.
+* Como agrupar de forma ótima um conjunto de dados para encontrar padrões ocultos.
+* Como avaliar informações dadas pelos dados segmentados e utilizá-los de maneira significativa.
