@@ -4,12 +4,14 @@ Uma distribuidora atacadista recentemente testou uma mudança em seu método de 
 ### Software e bibliotecas
 Este projeto usará o seguinte software e bibliotecas de Python:
 
-Python 2.7
-NumPy
-pandas
-scikit-learn
-matplotlib
-Jupyter Notebook
+* Python 2.7
+* NumPy
+* pandas
+* scikit-learn
+* matplotlib
+* Jupyter Notebook
+
+</br></br>
 Caso você não tenha o Python instalado ainda, é altamente recomendado que você instale a distribuição Anaconda de Python, que já tem os pacotes acima e mais inclusos. Certifique-se de que você selecionou o instalador do Python 2.7 e não o instalador do Python 3.x.
 
 ### Começando o projeto
